@@ -1,1 +1,0 @@
-self.__SSG_MANIFEST=new Set(["\u002Fblog","\u002Freset\u002F[reset-id]","\u002Fverify\u002F[verification-id]","\u002Fblog\u002F[slug]"]);self.__SSG_MANIFEST_CB&&self.__SSG_MANIFEST_CB()
