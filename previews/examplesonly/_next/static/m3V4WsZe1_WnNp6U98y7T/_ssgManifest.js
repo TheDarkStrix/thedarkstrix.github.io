@@ -1,0 +1,1 @@
+self.__SSG_MANIFEST=new Set(["\u002Fxadminstats","\u002Freset-password","\u002Fverify","\u002Flogin"]);self.__SSG_MANIFEST_CB&&self.__SSG_MANIFEST_CB()
